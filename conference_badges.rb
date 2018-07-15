@@ -7,4 +7,5 @@ def batch_badge_creator(attendees)
   for attendee in attendees
     array.push(badge_maker(attendee))
   end
+  return array
 end
