@@ -3,4 +3,6 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(attendees)
+  for attendee in attendees
+  end
 end
