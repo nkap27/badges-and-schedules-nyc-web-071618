@@ -28,6 +28,6 @@ def printer
     puts "#{badge}"
   end
   rooms.each do |attendee|
-    puts attendee
+    puts "#{attendee}"
   end
 end
